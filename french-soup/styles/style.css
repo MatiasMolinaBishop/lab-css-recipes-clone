@@ -7,3 +7,32 @@ html {
   font-family: 'Open Sans', sans-serif;
   font-size: 18px
 }
+
+.imgStyle{
+  width: 250px;
+  margin:0 450px;
+}
+
+.textStyle{
+  color: gray;
+  margin:0 150px;
+}
+
+h4{
+  color:black;
+}
+
+#title{
+  background-image: url(../images/soup.jpg);
+  background-position: 0, 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  height: 460px;
+  text-align:center;
+  color:white;
+  padding: 350px 0;
+  box-sizing: border-box;
+  font-size: 60px;
+
+}
